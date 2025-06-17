@@ -1,1 +1,2 @@
 Hello this is a sample text file
+Making changes in sample file.
